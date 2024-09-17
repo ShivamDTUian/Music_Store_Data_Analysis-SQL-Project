@@ -1,4 +1,4 @@
-                                                        **Music Store Data Analysis Project**
+                                                       \\** Music Store Data Analysis Project**\\
 **Overview**
 This project involves designing and implementing an end-to-end SQL solution for analyzing a music store's sales, inventory, and customer data. 
 The solution aims to uncover insights into sales trends, optimize query performance, and automate reporting processes.
