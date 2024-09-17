@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 100,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "MyLocalMySQL",
+				"group": "Local Databases",
+				"database": "information_schema",
+				"username": "root",
+				"connectionTimeout": 30
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "LocalMySQLConnection",
+				"group": "Local Databases",
+				"database": "information_schema",
+				"username": "root",
+				"password": "DTUian@123",
+				"connectionTimeout": 30
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "127.0.0.1",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "SQL_PROJECT",
+				"group": "PERSONAL",
+				"database": "music_database",
+				"username": "root",
+				"password": "DTUian@123",
+				"connectionTimeout": 30
+			}
+		]
+	}
+}
